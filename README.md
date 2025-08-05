@@ -1,30 +1,37 @@
 # 🧠 SQL Projects Portfolio
 
-Welcome to my SQL Projects Portfolio!
+Greetings! 👋
 
-This repository showcases a growing collection of SQL-based data analysis projects I've worked on to deepen my skills in data querying, exploration, and insight generation. Each project demonstrates practical applications of SQL for solving real-world business problems using publicly available datasets.
+Welcome to my SQL projects portfolio — a collection of hands-on data analysis projects where I explore real-world datasets using SQL.
 
-## 🛠️ Projects Included
-Here are some of the projects you'll find in this repository:
+These projects help me sharpen my skills in writing queries, cleaning data, and pulling insights that can drive better decisions. Whether it’s analyzing sales trends or exploring user behavior, each project is a step forward in my journey as a data analyst.
+
+## 📁 What's Inside
+Here are some of the projects included so far:
 
 - **📊 Superstore Sales Analysis**  
-  Explored sales, profit, and customer behavior data using SQL queries to identify business insights from the Superstore dataset.
+  Used SQL to explore customer orders, product categories, and pricing to understand sales performance and identify key insights.
 
-*(More projects coming soon!)*
+- **📦 [Coming Soon] ...**  
 
-## 🧰 Tools & Skills Used
-- SQL (PostgreSQL, MySQL, SQLite)
-- Data cleaning & transformation
-- Aggregation, subqueries, window functions
-- Joins, filtering, grouping, sorting
-- Real-world datasets (Superstore, E-commerce, COVID-19, etc.)
+- **📉 [Coming Soon] ...**  
 
-## 💼 About Me
-I'm a data enthusiast with a background in management and a strong interest in data analytics. I enjoy uncovering insights from raw data and turning them into meaningful stories that support better decision-making. I'm currently building my data portfolio and continuously learning through hands-on projects.
+Stay tuned — more projects are on the way!
 
-Feel free to explore, give feedback, or reach out if you're interested in collaborating or hiring.
+## 🧰 Tools & Topics
+- SQL
+- Data filtering, grouping, sorting
+- Aggregation & subqueries
+- Joins & basic window functions
+- Real datasets (Superstore)
+
+## 👋 About Me
+I'm Aditya — someone who enjoys working with data, exploring patterns, and solving problems through analysis. With a background in management and a growing passion for data, I’m building this portfolio to document my learning and share what I’ve been working on.
+
+Feel free to explore the projects, drop feedback, or reach out if you'd like to connect!
 
 ---
 
 📫 **Email**: [muh.aditya.tm@gmail.com](mailto:muh.aditya.tm@gmail.com)  
 🔗 **LinkedIn**: [www.linkedin.com/in/madityatm](https://www.linkedin.com/in/madityatm)
+
