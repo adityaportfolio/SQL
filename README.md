@@ -33,5 +33,5 @@ Feel free to explore the projects, drop feedback, or reach out if you'd like to 
 ---
 
 📫 **Email**: [muh.aditya.tm@gmail.com](mailto:muh.aditya.tm@gmail.com)  
-🔗 **LinkedIn**: [www.linkedin.com/in/madityatm](https://www.linkedin.com/in/madityatm)
+🔗 **LinkedIn**: [www.linkedin.com/in/madityatm](https://www.linkedin.com/in/m-aditya-tm)
 
